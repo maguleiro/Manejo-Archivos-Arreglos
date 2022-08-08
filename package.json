@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "sync-fs": "^1.0.1"
+  }
+}
+{
+  "name": "sync-fs",
+  "version": "1.0.1",
+  "description": "Synchronous version of the node.js fs module.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/nathan7/sync-fs.git"
+  },
+  "keywords": [
+    "fs",
+    "sync",
+    "synchronous"
+  ],
+  "author": "Nathan Zadoks",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nathan7/sync-fs/issues"
+  },
+  "homepage": "https://github.com/nathan7/sync-fs"
+}

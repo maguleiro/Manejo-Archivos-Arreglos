@@ -8,5 +8,10 @@
 		"id":2,
 		"producto": "Teclado",
 		"precio": "5000"	
+	},
+	{
+		"id":3,
+		"producto": "Speaker",
+		"precio": "2000"	
 	}
 ]
